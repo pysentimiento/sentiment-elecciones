@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+torch = "==1.4.0"
+transformers = "*"
+jupyterlab = "*"
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+ipywidgets = "*"
+torchtext = "==0.5.0"
+sklearn = "*"
+
+[requires]
+python_version = "3.8"
