@@ -6,3 +6,4 @@ pandas==0.25.1
 xlrd==1.2.0
 fire==0.3.1
 unidecode==1.1.1
+statsmodels==0.12.0
