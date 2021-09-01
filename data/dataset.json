@@ -290,6 +290,13 @@
         }
     },
     {
+        "titulo": "Marco Lavagna: vot\u00f3 en contra del aborto y disputa una banca con Myriam Bregman",
+        "id": 695,
+        "labels": {
+            "Lavagna": "NEG"
+        }
+    },
+    {
         "titulo": "Otro rev\u00e9s para Macri: el FMI dijo que los US$ 5.400 millones \u201cdeber\u00e1n esperar\u201d",
         "id": 704,
         "labels": {
@@ -436,6 +443,13 @@
         "id": 1017,
         "labels": {
             "Pichetto": "NEG"
+        }
+    },
+    {
+        "titulo": "Bregman y Del Ca\u00f1o en la movilizaci\u00f3n contra la crisis clim\u00e1tica y ecol\u00f3gica",
+        "id": 1029,
+        "labels": {
+            "Del Ca\u00f1o": "POS"
         }
     },
     {
@@ -687,6 +701,13 @@
         "labels": {
             "Roberto Lavagna": "POS",
             "Juan Manuel Urtubey": "POS"
+        }
+    },
+    {
+        "titulo": "Sergio Massa sobre el acto de Mauricio Macri: \u201cEs una gira de despedida del Presidente\u201d",
+        "id": 1289,
+        "labels": {
+            "Mauricio Macri": "NEG"
         }
     },
     {
@@ -1123,6 +1144,14 @@
         }
     },
     {
+        "titulo": "Diez d\u00edas antes de las elecciones, Mauricio Macri asistir\u00e1 al Coloquio de IDEA y Alberto Fern\u00e1ndez a\u00fan no confirm\u00f3 su presencia",
+        "id": 2010,
+        "labels": {
+            "Mauricio Macri": "POS",
+            "Alberto Fern\u00e1ndez": "NEU"
+        }
+    },
+    {
         "titulo": "El fracaso de Macri me obliga a votar al kirchnerismo",
         "id": 2044,
         "labels": {
@@ -1135,6 +1164,13 @@
         "id": 2046,
         "labels": {
             "Mauricio Macri?": "NEG"
+        }
+    },
+    {
+        "titulo": "Mendoza elige entre la continuidad del radicalismo o volver al peronismo",
+        "id": 2049,
+        "labels": {
+            "peronismo": "NEG"
         }
     },
     {
@@ -3456,6 +3492,13 @@
         }
     },
     {
+        "titulo": "Diez razones para ir al acto del Frente de Izquierda Unidad este s\u00e1bado",
+        "id": 5677,
+        "labels": {
+            "Frente de Izquierda Unidad": "POS"
+        }
+    },
+    {
         "titulo": "[VIDEO] Nicol\u00e1s del Ca\u00f1o presenta su libro en Buenos Aires",
         "id": 5678,
         "labels": {
@@ -3978,6 +4021,20 @@
         "labels": {
             "Nicol\u00e1s Del Ca\u00f1o": "POS",
             "Frente de todos": "NEG"
+        }
+    },
+    {
+        "titulo": "Alberto Fern\u00e1ndez sum\u00f3 a Florencio Randazzo a su armado electoral",
+        "id": 6566,
+        "labels": {
+            "Alberto Fern\u00e1ndez": "NEU"
+        }
+    },
+    {
+        "titulo": "Christian Castillo: \u201cMacri fue de terror pero tuvo c\u00f3mplices\u201d",
+        "id": 6571,
+        "labels": {
+            "Macri": "NEG"
         }
     },
     {
@@ -4572,6 +4629,13 @@
         }
     },
     {
+        "titulo": "El mapa de gobernadores para el nuevo presidente, con m\u00e1s peso del PJ",
+        "id": 7438,
+        "labels": {
+            "PJ": "NEU"
+        }
+    },
+    {
         "titulo": "Mat\u00edas Lammens asegur\u00f3 que \u201cTinelli puede colaborar con la gesti\u00f3n de Alberto Fern\u00e1ndez\u201d",
         "id": 7440,
         "labels": {
@@ -4605,6 +4669,13 @@
         "labels": {
             "Macri?": "NEU",
             "Alberto Fern\u00e1ndez": "NEU"
+        }
+    },
+    {
+        "titulo": "La UCR perdi\u00f3 otra capital provincial: la fuerza del gobernador Alberto Weretilneck le gan\u00f3 en Viedma",
+        "id": 7446,
+        "labels": {
+            "Alberto": "POS"
         }
     },
     {
@@ -5058,6 +5129,13 @@
         }
     },
     {
+        "titulo": "Macri se va, pero el ajuste y el FMI se quedan",
+        "id": 8299,
+        "labels": {
+            "Macri": "NEG"
+        }
+    },
+    {
         "titulo": "Alberto Fern\u00e1ndez convoc\u00f3 a trabajar contra el hambre a Juan Grabois, la Iglesia y las grandes empresas",
         "id": 8300,
         "labels": {
@@ -5150,6 +5228,20 @@
         }
     },
     {
+        "titulo": "Alberto prometi\u00f3 \"reperfilar el precio de la canasta b\u00e1sica\"",
+        "id": 8387,
+        "labels": {
+            "Alberto": "POS"
+        }
+    },
+    {
+        "titulo": "Casero recargado: apunt\u00f3 contra los k, critic\u00f3 a Pichetto y habl\u00f3 del 'coraz\u00f3n batmaniano'",
+        "id": 8392,
+        "labels": {
+            "Pichetto": "NEG"
+        }
+    },
+    {
         "titulo": "De vuelta de Cuba, Cristina reaparecer\u00eda despu\u00e9s del debate",
         "id": 8396,
         "labels": {
@@ -5161,6 +5253,14 @@
         "id": 8398,
         "labels": {
             "Macri": "POS"
+        }
+    },
+    {
+        "titulo": "La UIA con candidatos: hoy recibi\u00f3 a Lavagna pero Macri a\u00fan no confirma",
+        "id": 8403,
+        "labels": {
+            "Lavagna": "POS",
+            "Macri": "NEU"
         }
     },
     {
@@ -6099,6 +6199,13 @@
         }
     },
     {
+        "titulo": "Grabois intenta marcarle la cancha Alberto: \u201cSi no cumple las demandas saldremos a protestar\u201d",
+        "id": 10205,
+        "labels": {
+            "Alberto": "NEG"
+        }
+    },
+    {
         "titulo": "Macri interviene para evitar un giro de Alberto hacia Venezuela",
         "id": 10208,
         "labels": {
@@ -6600,6 +6707,13 @@
         "id": 11146,
         "labels": {
             "Cristina": "NEU"
+        }
+    },
+    {
+        "titulo": "El mercado apuesta a la moderaci\u00f3n de Alberto: suben bonos y baja el riesgo pa\u00eds",
+        "id": 11154,
+        "labels": {
+            "Alberto": "POS"
         }
     },
     {
@@ -7143,6 +7257,13 @@
         }
     },
     {
+        "titulo": "Patricia Bullrich y Alberto Fern\u00e1ndez se cruzaron en Twitter por la \"ley mentira\"",
+        "id": 12266,
+        "labels": {
+            "Alberto Fern\u00e1ndez": "NEG"
+        }
+    },
+    {
         "titulo": "Mauricio Macri: \"No sirve truchar el Indec y esconder la pobreza\"",
         "id": 12305,
         "labels": {
@@ -7536,6 +7657,13 @@
         "id": 13074,
         "labels": {
             "Miguel \u00c1ngel Pichetto": "NEU"
+        }
+    },
+    {
+        "titulo": "El PJ sum\u00f3 su provincia n\u00famero 11 en 2019 y es favorito en otras cuatro",
+        "id": 13076,
+        "labels": {
+            "PJ": "POS"
         }
     },
     {
@@ -8228,6 +8356,14 @@
         }
     },
     {
+        "titulo": "Debate presidencial 2019: Primeras impresiones sobre la novedad | Macri, opositor de la oposici\u00f3n. Fern\u00e1ndez, con traje presidencial.",
+        "id": 13900,
+        "labels": {
+            "Macri": "NEU",
+            "Fern\u00e1ndez": "NEU"
+        }
+    },
+    {
         "titulo": "Alberto Fern\u00e1ndez sobre el papel de Macri en el debate presidencial: \"Lo mandar\u00eda al recuperatorio\u201d",
         "id": 13905,
         "labels": {
@@ -8645,6 +8781,13 @@
         }
     },
     {
+        "titulo": "Roberto Lavagna admiti\u00f3 que estuvo inc\u00f3modo: \"Cuesta aceptar la pelea permanente en los dos extremos de la grieta\"",
+        "id": 14286,
+        "labels": {
+            "Roberto Lavagna": "POS"
+        }
+    },
+    {
         "titulo": "Alberto Fern\u00e1ndez: \"No hay crisis c\u00edclicas en el pa\u00eds, hay crisis cuando gobiernan ellos\"",
         "id": 14289,
         "labels": {
@@ -8786,6 +8929,13 @@
         }
     },
     {
+        "titulo": "Conforme, ahora Mauricio Macri apuesta a utilizar la \"arrogancia\" de Alberto",
+        "id": 14378,
+        "labels": {
+            "Mauricio Macri": "NEU"
+        }
+    },
+    {
         "titulo": "El tierno gesto de Antonia Macri para recibir al Presidente tras el debate presidencial",
         "id": 14380,
         "labels": {
@@ -8841,6 +8991,13 @@
         "id": 14424,
         "labels": {
             "Roberto Lavagna": "NEU"
+        }
+    },
+    {
+        "titulo": "Kicillof le contest\u00f3 a Macri por las \"narcocapacitaciones en las escuelas\"",
+        "id": 14432,
+        "labels": {
+            "Macri": "NEU"
         }
     },
     {
@@ -9352,6 +9509,13 @@
         "id": 15163,
         "labels": {
             "Alberto": "NEU"
+        }
+    },
+    {
+        "titulo": "Bregman a Marco Lavagna: \"En campa\u00f1a son todos antimacristas, pero le votaron todo\"",
+        "id": 15166,
+        "labels": {
+            "Lavagna": "NEG"
         }
     },
     {
@@ -10250,6 +10414,14 @@
         }
     },
     {
+        "titulo": "Terciarios: La Izquierda se une para recuperar el CEA de manos del peronismo",
+        "id": 16867,
+        "labels": {
+            "La Izquierda": "POS",
+            "peronismo": "NEG"
+        }
+    },
+    {
         "titulo": "Mauricio Macri y Mar\u00eda Eugenia Vidal, entre la m\u00edstica y el realismo",
         "id": 16872,
         "labels": {
@@ -10743,6 +10915,16 @@
         }
     },
     {
+        "titulo": "Recorridas y entrevistas: las apuestas de Lavagna, G\u00f3mez Centuri\u00f3n, Del Ca\u00f1o y Espert",
+        "id": 17993,
+        "labels": {
+            "Espert": "NEU",
+            "Lavagna": "NEU",
+            "Del Ca\u00f1o": "NEU",
+            "G\u00f3mez Centuri\u00f3n": "NEU"
+        }
+    },
+    {
         "titulo": "La sombra de Cristina, un obst\u00e1culo en el plan de Alberto Fern\u00e1ndez",
         "id": 17994,
         "labels": {
@@ -10769,6 +10951,13 @@
         "id": 17998,
         "labels": {
             "Juan Manuel Urtubey": "NEU"
+        }
+    },
+    {
+        "titulo": "Mauricio Macri: un raid final por el interior y el objetivo de revertir el voto \"enojado\"",
+        "id": 17999,
+        "labels": {
+            "Mauricio Macri": "NEG"
         }
     },
     {
@@ -10823,6 +11012,13 @@
         }
     },
     {
+        "titulo": "Del Ca\u00f1o: \"Chile despert\u00f3, fuerza al pueblo chileno\"",
+        "id": 18149,
+        "labels": {
+            "Del Ca\u00f1o": "POS"
+        }
+    },
+    {
         "titulo": "El FIT march\u00f3 en Comodoro Rivadavia al grito de \u201cChile, escucha, tu lucha es nuestra lucha\u201d",
         "id": 18152,
         "labels": {
@@ -10848,6 +11044,13 @@
         "id": 18183,
         "labels": {
             "Macri": "NEU"
+        }
+    },
+    {
+        "titulo": "Mauricio Macri venci\u00f3 por puntos, pero requer\u00eda el knock out",
+        "id": 18198,
+        "labels": {
+            "Mauricio Macri": "NEU"
         }
     },
     {
@@ -10937,10 +11140,25 @@
         }
     },
     {
+        "titulo": "Alberto Fern\u00e1ndez y Cristina Kirchner cierran su campa\u00f1a con un acto en Mar del Plata",
+        "id": 18448,
+        "labels": {
+            "Alberto Fern\u00e1ndez": "NEU",
+            "Cristina Kirchner": "NEU"
+        }
+    },
+    {
         "titulo": "Alberto Fern\u00e1ndez: \u201cDecid\u00ed que no voy a seguir hablando con Mauricio Macri\u201d",
         "id": 18449,
         "labels": {
             "Mauricio Macri": "NEG"
+        }
+    },
+    {
+        "titulo": "Alberto Fern\u00e1ndez envi\u00f3 un mensaje a los mercados y asegur\u00f3 que, si gana, respetar\u00e1 los dep\u00f3sitos en d\u00f3lares",
+        "id": 18450,
+        "labels": {
+            "Alberto Fern\u00e1ndez": "POS"
         }
     },
     {
@@ -11007,6 +11225,13 @@
         "id": 18473,
         "labels": {
             "Macri": "POS"
+        }
+    },
+    {
+        "titulo": "Mat\u00edas Lammens almorz\u00f3 con Alberto Fern\u00e1ndez y cerr\u00f3 la campa\u00f1a porte\u00f1a con la esperanza de entrar al balotaje",
+        "id": 18474,
+        "labels": {
+            "Alberto Fern\u00e1ndez": "NEU"
         }
     },
     {
@@ -11158,6 +11383,20 @@
         "labels": {
             "Alberto Fern\u00e1ndez": "NEU",
             "Cristina Kirchner": "NEU"
+        }
+    },
+    {
+        "titulo": "Bolsonaro amenaz\u00f3 con excluir a la Argentina del Mercosur si el triunfo de Alberto Fern\u00e1ndez implica un retroceso del libre comercio",
+        "id": 18772,
+        "labels": {
+            "Alberto Fern\u00e1ndez": "NEG"
+        }
+    },
+    {
+        "titulo": "Con dos mil mesas testigo, Alberto Fern\u00e1ndez espera confirmar el domingo antes de las 21 su triunfo en las elecciones presidenciales",
+        "id": 18773,
+        "labels": {
+            "Alberto Fern\u00e1ndez": "POS"
         }
     },
     {
@@ -11334,6 +11573,15 @@
         }
     },
     {
+        "titulo": "Candidato a gobernador del Frente NOS pide votar a Macri en vez de G\u00f3mez Centuri\u00f3n",
+        "id": 18999,
+        "labels": {
+            "Macri": "POS",
+            "Frente NOS": "NEG",
+            "G\u00f3mez Centuri\u00f3n": "NEG"
+        }
+    },
+    {
         "titulo": "Precalienta primer default corporativo de la era Macri",
         "id": 19002,
         "labels": {
@@ -11376,6 +11624,20 @@
         }
     },
     {
+        "titulo": "Alberto Fern\u00e1ndez sigue la campa\u00f1a en Chaco",
+        "id": 19022,
+        "labels": {
+            "Alberto Fern\u00e1ndez": "NEU"
+        }
+    },
+    {
+        "titulo": "Alberto Fern\u00e1ndez: Se acab\u00f3 la Argentina privilegiada y la Argentina que padece",
+        "id": 19028,
+        "labels": {
+            "Alberto Fern\u00e1ndez": "POS"
+        }
+    },
+    {
         "titulo": "Junto a Macri, Vidal cerr\u00f3 su campa\u00f1a en Mar del Plata",
         "id": 19029,
         "labels": {
@@ -11408,6 +11670,13 @@
         "id": 19054,
         "labels": {
             "Macri": "NEG"
+        }
+    },
+    {
+        "titulo": "Alberto Fern\u00e1ndez: Hay una Argentina que construir, es el pa\u00eds que nos merecemos, y lo vamos a hacer entre todos y todas",
+        "id": 19071,
+        "labels": {
+            "Alberto Fern\u00e1ndez": "POS"
         }
     },
     {
@@ -12070,6 +12339,14 @@
         }
     },
     {
+        "titulo": "Elecciones 2019 | Mar\u00eda Eugenia Vidal cerr\u00f3 la campa\u00f1a en Vicente L\u00f3pez: \"Mauricio al balotaje y Juntos por el Cambio a la provincia. Vamos a darla vuelta\"",
+        "id": 19999,
+        "labels": {
+            "Mauricio": "POS",
+            "Juntos por el Cambio": "POS"
+        }
+    },
+    {
         "titulo": "La unidad del peronismo con grietas por el Aborto",
         "id": 20010,
         "labels": {
@@ -12130,6 +12407,15 @@
         "id": 20026,
         "labels": {
             "Frente de Izquierda Unidad": "POS"
+        }
+    },
+    {
+        "titulo": "Alberto Fern\u00e1ndez y CFK: discurso progresista rodeados de los ex aliados de Macri",
+        "id": 20028,
+        "labels": {
+            "Macri": "NEG",
+            "Alberto Fern\u00e1ndez": "NEU",
+            "CFK": "NEU"
         }
     },
     {
@@ -12576,6 +12862,13 @@
         "id": 21192,
         "labels": {
             "Roberto Lavagna": "POS"
+        }
+    },
+    {
+        "titulo": "En veda electoral, Mauricio Macri pas\u00f3 el d\u00eda en su quinta junto a amigos y familia",
+        "id": 21197,
+        "labels": {
+            "Mauricio Macri": "NEU"
         }
     },
     {
@@ -13147,6 +13440,13 @@
         }
     },
     {
+        "titulo": "Alberto Fern\u00e1ndez critic\u00f3 a Marcos Pe\u00f1a por decir que habr\u00e1 que esperar el escrutinio definitivo para saber el resultado de la elecci\u00f3n",
+        "id": 22066,
+        "labels": {
+            "Alberto Fern\u00e1ndez": "POS"
+        }
+    },
+    {
         "titulo": "Alberto Fern\u00e1ndez: \u201cEs un gran d\u00eda, la Argentina va a andar bien\u201d",
         "id": 22067,
         "labels": {
@@ -13231,6 +13531,13 @@
         "id": 22103,
         "labels": {
             "Mauricio Macri": "NEU"
+        }
+    },
+    {
+        "titulo": "Mauricio Macri: \u201cM\u00e1s que nunca, fuerza a los fiscales responsables de cuidar la voluntad de la gente\u201d",
+        "id": 22104,
+        "labels": {
+            "Mauricio Macri": "POS"
         }
     },
     {
@@ -13410,6 +13717,16 @@
         "id": 22221,
         "labels": {
             "Mauricio Macri": "NEG"
+        }
+    },
+    {
+        "titulo": "Memes de Elecciones 2019: los mejores memes de Macri, Alberto Fern\u00e1ndez, Del Ca\u00f1o y Espert",
+        "id": 22224,
+        "labels": {
+            "Espert": "NEU",
+            "Macri": "NEU",
+            "Del Ca\u00f1o": "NEU",
+            "Alberto Fern\u00e1ndez": "NEU"
         }
     },
     {
@@ -13726,6 +14043,13 @@
         }
     },
     {
+        "titulo": "R\u00edo Negro: el Frente de Izquierda se prepara para enfrentar lo que se viene",
+        "id": 22456,
+        "labels": {
+            "Frente de Izquierda": "POS"
+        }
+    },
+    {
         "titulo": "Vot\u00f3 Alejandro Vilca y asegur\u00f3 que \u201cla izquierda se prepara para enfrentar el ajuste que se viene\u201d",
         "id": 22461,
         "labels": {
@@ -13794,6 +14118,13 @@
         "id": 22528,
         "labels": {
             "Cambiemos": "NEU"
+        }
+    },
+    {
+        "titulo": "Elecciones 2019: Jos\u00e9 Luis Espert vot\u00f3 entre selfies y saludos y ya se entusiasma con 2023",
+        "id": 22529,
+        "labels": {
+            "Jos\u00e9 Luis Espert": "POS"
         }
     },
     {
@@ -13879,6 +14210,14 @@
         "id": 22581,
         "labels": {
             "Macri": "POS"
+        }
+    },
+    {
+        "titulo": "Elecciones 2019. El pol\u00e9mico festejo de Alberto Fern\u00e1ndez antes de ir al b\u00fanker: \"Un minuto de silencio para Macri que est\u00e1 muerto\"",
+        "id": 22583,
+        "labels": {
+            "Macri": "NEG",
+            "Alberto Fern\u00e1ndez": "NEG"
         }
     },
     {
