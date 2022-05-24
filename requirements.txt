@@ -11,3 +11,4 @@ statsmodels==0.12.0
 krippendorff==0.4.0
 seaborn
 openpyxl
+unidecode
