@@ -1,5 +1,8 @@
 # sentiment-elecciones
-Sentiment Analysis for Argentina 2019 Elections
+Code for paper "A Spanish dataset for Targeted Sentiment Analysis of political headlines", Tomás Alves Salgueiro, Emilio Recart Zapata, Damián Furman, Juan Manuel Pérez, Pablo Nicolás Fernández Larrosa.
+
+- Check it at [arXiv](https://arxiv.org/abs/2208.13947)
+- Get the [dataset](https://huggingface.co/datasets/pysentimiento/spanish-targeted-sentiment-headlines)
 
 ## Instrucciones
 
@@ -16,7 +19,3 @@ pip install -r requirements.txt
 ```
 jupyter lab
 ```
-
-3. Notebook de Agreements
-
-La notebook de agreements es `notebooks/Agreements.ipynb`. Mirar ahí
